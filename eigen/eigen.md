@@ -24,3 +24,5 @@ This is because $det(A - \lambda I) = 0$ will makes $\lambda^n$  polynomial.
 
 According to number theory , this exist n solutions for power n polynomial.
 
+But be aware that there might exist imaginary parts or repeated roots issue. For a repeated roots , the matrix cant be diagonalize.
+
