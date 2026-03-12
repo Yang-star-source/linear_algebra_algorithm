@@ -1,2 +1,7 @@
 # Linear Algebra Algorithm
-Programming implementation for some concept of linear algebra
+There are some interesting linear algebra concept can be implemented by codes.
+
+Matrixes 
+- LU factorization
+- PLU factorization
+- LDU factorization
