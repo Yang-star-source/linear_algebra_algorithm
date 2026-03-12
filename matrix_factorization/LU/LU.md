@@ -1,4 +1,0 @@
-# LU factorization
-
-$$ A = LU $$
-

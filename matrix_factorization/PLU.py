@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.linalg import lu
 
-def LU_from_scipy(A):
+def PLU_from_scipy(A):
 
     P, L, U = lu(A)
     return P, L, U
@@ -12,7 +12,7 @@ A=np.array([
     [9,10,11,12],
 ])
 
-P, L, U = LU_from_scipy(A)
+P, L, U = PLU_from_scipy(A)
 
 print(P)
 print("\n")
